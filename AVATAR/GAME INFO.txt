@@ -1,0 +1,12 @@
+DZIAŁANIE I CEL GRY:
+Gra w stylu galaga w której wcielamy się w postać AVATARA AANGA walczącego z narodem ognia (z serialu Avatar the Last Airbender który ostatnio oglądałem i tak powstał pomysł na gre)
+Z góry ekranu w losowych miejscach idą przeciwnicy (Ich ilość zwiększa się z ilością zdobytych punktów (co 450pkt przeciwników jest coraz więcej (poziom trudności))
+Pod LPM strzeamy posickami wiatru a pod AWSD sterujemy postacią. Za pokonywanie przeciwników dostajemy punkty których chcemy mieć jak najwięcej.
+(Są różne typy przeciwników (narazie tylko 2 ale chce żeby ich było około 4 + boss przy dobiciu określonej ilości punktów)
+Przy kontakcie bezpośrednim z przeciwnikami otrzymujemy obrażenia więc lepiej się nie zbliżać.
+Tak samo w przypadku gdy przeciwnik nas ominie i dotknie dołu ekranu jednak wtedy obrażenia są mniejsze o 90 % ( zapobiega to taktyce na stanie w miejsu i strzelanie ale nie robi gry bardzo trudnej)
+Z góry co jakiś czas spadają rzeczy dobre dla postaci (heal albo 4 żywioły wprowadzające nas w stan avatara)
+Pod klawiszem ESC można zatrzymać gre.
+(Gre chciałbym ulepszać ale narazie w celu zaliczenia przedmiotu jest w takiej formie)
+(!!!WSZYSTKIE TEKSTURY ZOSTAŁY ZROBIONE PRZEZEMNIE DLATEGO PRZECIWNIKÓW JEST NARAZIE MAŁO XD!!!)
+MIŁEGO GRANIA!!!
